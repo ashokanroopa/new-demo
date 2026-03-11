@@ -1,4 +1,4 @@
 #!/bin/bash
-name="roopa"
+name="roopa ashokan"
 
 echo "helo $name"
